@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rubygems-update', '~> 2.6', '>= 2.6.6'
 gem 'activesupport'
 gem 'rest-client', '~> 1.6'
 gem 'yajl-ruby', '~> 1.2.1', platform: :ruby
